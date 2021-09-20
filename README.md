@@ -1,6 +1,6 @@
 # CoviCure Website
 
-## [Site is Live At](https://covicure-app.herokuapp.com/) : <br/> https://covicure-app.herokuapp.com/
+## [Site is Live At](https://covi-cure.herokuapp.com/) : <br/> https://covi-cure.herokuapp.com/
 
 ## [Demo Video of Working of Project CoviCure](https://www.youtube.com/watch?v=bgkLg3my7gc) : <br/> https://www.youtube.com/watch?v=bgkLg3my7gc
 
